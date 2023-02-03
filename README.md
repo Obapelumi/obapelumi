@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Obapelumi/obapelumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+I’m an energetic full-stack engineer with 5+ years experience shipping software that helps startups grow.
+
+### Skills
+
+HTML, CSS, Javascript, Typescript, React, Vue, Rest APIs, Node.js, PHP, Laravel, Postgres SQL, MySQL, GCP, AWS, Git, CI/CD
+
+### How to reach me
+
+obapelumi.o@gmail.com

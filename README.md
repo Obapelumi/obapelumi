@@ -19,7 +19,7 @@ I’m an energetic full-stack engineer with 5+ years experience shipping impactf
 
 ### Skills
 
-HTML, CSS, Javascript, Typescript, React, Vue, Rest APIs, Node.js, PHP, Laravel, Postgres SQL, MySQL, GCP, AWS, Git, CI/CD
+HTML, CSS, Javascript, Typescript, React, Vue, Rest APIs, Node.js, PHP, Laravel, Postgres SQL, MySQL, GCP, Git, CI/CD
 
 ### How to reach me
 

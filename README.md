@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I’m an energetic full-stack engineer with 5+ years experience shipping software that helps startups grow.
+I’m an energetic full-stack engineer with 5+ years experience shipping impactful software that fast charge growth.
 
 ### Skills
 
